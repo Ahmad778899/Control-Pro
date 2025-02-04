@@ -1,0 +1,15 @@
+{
+  "app_name": "My Application",
+  "version": "1.0",
+  "author": "John Doe",
+  "wallpapers": [
+    {
+      "title": "مسجد قبة الصخرة",
+      "url": "https://example.com/wallpaper1.jpg"
+    },
+    {
+      "title": "المسجد النبوي",
+      "url": "https://example.com/wallpaper2.jpg"
+    }
+  ]
+}
